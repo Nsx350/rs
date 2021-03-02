@@ -10,3 +10,9 @@ body {
   margin: auto;
   padding: 15px;
 }
+img {
+  height: 300px;
+  padding-right: 32px;
+  border-style: none;
+  float: right;
+}
